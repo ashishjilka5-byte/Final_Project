@@ -55,7 +55,8 @@ It provides insights into sales trends, customer behavior, and product performan
 
 ### 🟩 Customer Analysis Page
 
-![Customer Analysis](customer_analysis.png)
+<img width="1920" height="1008" alt="customer_analysis png" src="https://github.com/user-attachments/assets/5324ff7b-ab00-43e3-bf2b-68df0383186e" />
+
 
 ✔ Total Profit & Customers
 ✔ Top Customers by Profit
@@ -66,7 +67,8 @@ It provides insights into sales trends, customer behavior, and product performan
 
 ### 🟨 Product Analysis Page
 
-![Product Analysis](product_analysis.png)
+<img width="1920" height="1008" alt="product_analysis png" src="https://github.com/user-attachments/assets/14bddc9d-5921-4654-8ef9-215ea91d4b5a" />
+
 
 ✔ Total Sales, Products, Units Sold
 ✔ Top Products Performance
