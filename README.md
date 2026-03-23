@@ -41,7 +41,9 @@ It provides insights into sales trends, customer behavior, and product performan
 
 ### 🟦 Overview Page
 
-![Overview](overview.png)
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/103be301-531f-41db-a0bf-1ed7a961d65d" />
+
+
 
 ✔ KPI Cards (Sales, Customers, Orders)
 ✔ Top Products by Sales
